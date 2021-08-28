@@ -68,7 +68,7 @@ content:
 #         quote: >
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            * #### ** 2021 **:
+            * #### **2021**:
               * **An Uncertainty-Aware Encoder for Aspect Detection**
               
                 **Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song and Tuan Cao 
@@ -83,7 +83,7 @@ content:
         title: DSLab
 #         link: boringcompany.com
 #         link_text: boringcompany.com
-        # sub_title: Senior Network System Administrator
+        sub_title: Research Students
         caption: 2019 - Present
 #         quote: >
 #           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
