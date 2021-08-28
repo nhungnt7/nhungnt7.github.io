@@ -68,8 +68,8 @@ content:
 #         quote: >
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            * #### 2021:
-              * ** An Uncertainty-Aware Encoder for Aspect Detection **
+            * #### ** 2021 **:
+              * **An Uncertainty-Aware Encoder for Aspect Detection**
               
                 **Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song and Tuan Cao 
               
