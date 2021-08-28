@@ -2,11 +2,11 @@
 repository: sproogen/resume-theme
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
-name: Nhung Nguyen
-title: Student at Ha Noi University of Science and Technology
+# name: Nhung Nguyen
+# title: Student at Ha Noi University of Science and Technology
 email: nguyennhung0799@gmail.com
 # website: www.github.com/nhungnt7.github.io
 
