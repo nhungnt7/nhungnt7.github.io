@@ -68,7 +68,11 @@ content:
 #         quote: >
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-            - An Uncertainty-Aware Encoder for Aspect Detection | **Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song and Tuan Cao | Proceedings of EMNLP 2021 (Findings)
+            - title: An Uncertainty-Aware Encoder for Aspect Detection 
+              
+              **Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song and Tuan Cao 
+              
+              Proceedings of EMNLP 2021 (Findings)
 
           
   - title: Experience # Title for the section
