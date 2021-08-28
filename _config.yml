@@ -67,7 +67,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 #         quote: >
 #           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+        content: | # this will include new lines to allow paragraphs
           - An Uncertainty-Aware Encoder for Aspect Detection
             **Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song and Tuan Cao
             title: Proceedings of EMNLP 2021 (Findings)
