@@ -60,7 +60,7 @@ content:
         # link_text: Project Website
         additional_links:
 #           - title:  sproogen/modern-resume-theme
-           -title: link
+          - title: link
             icon: fab fa-github
             url: github.com/nhungnt7
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
