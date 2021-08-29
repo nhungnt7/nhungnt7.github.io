@@ -12,7 +12,7 @@ email: nguyennhung0799@gmail.com
 # website: www.github.com/nhungnt7.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: nhungnt7
@@ -48,7 +48,9 @@ github_username:  nhungnt7
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ABOUT ME HERE
+  Hi, I'm Nhung.
+  
+  I am a recent graduate of Computer Science at Hanoi University of Science and Technology. I love machine learning and natural language processing. I am focusing on Unsupervised and Weakly supervised Aspect Extraction.
 
 content:
   - title: PUBLICATIONS # Title for the section
@@ -81,38 +83,36 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: DSLab
+        title: DSLab  
 #         link: boringcompany.com
 #         link_text: boringcompany.com
         sub_title: Natural Language Processing
-        caption: 2019 - Present
+        caption: September 2019 - Present
 #         quote: >
 #           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            DSlab desciptions
+            I have learned a lot of knowledge while participating in Data Science Lab. I learned the basics of statistical machine learning, basic machine learning models, more advanced methods, and especially I learned a lot about Natural Language Processing. DSLab is a great environment for learning and self-development.
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Ha Noi University of Science and Technology
+          link: https://hust.edu.vn/
+          link_text: HUST
         caption: August 2017 - August 2021
         sub_title: Computer Science
 #         quote: >
 #           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            During my time at HUST, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+            I have spent my free time taking on positions: *Student Volunteer* and *Vice-President*.
 
-  - title: A Little More About Me
-    layout: text
+  - title: Awards
+    layout: list
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      * Best Presentation Awards 2021
 
 # Footer
 footer_show_references: false
