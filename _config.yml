@@ -97,9 +97,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: [Ha Noi University of Science and Technology](https://hust.edu.vn/)
-          # link: https://hust.edu.vn/
-          # link_text: https://hust.edu.vn/
+        title: Ha Noi University of Science and Technology
+          # link: https://hust.edu.vn
+          # link_text: https://hust.edu.vn
         caption: August 2017 - August 2021
         sub_title: Computer Science
 #         quote: >
