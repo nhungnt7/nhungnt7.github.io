@@ -110,8 +110,8 @@ content:
           I have spent my free time taking on positions: *Student Volunteer* and *Vice-President*.
 
   - title: Awards
-    layout: list
-    description: | # this will include new lines to allow paragraphs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
       * Best Presentation Awards 2021
 
 # Footer
