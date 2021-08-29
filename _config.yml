@@ -12,7 +12,7 @@ email: nguyennhung0799@gmail.com
 # website: www.github.com/nhungnt7.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: nhungnt7
@@ -107,7 +107,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at HUST, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I have spent my free time taking on positions: *Student Volunteer* and *Vice-President*.
+          I have spent my free time taking on positions: *Volunteer* and *Vice-President*.
 
   - title: Awards
     layout: text
