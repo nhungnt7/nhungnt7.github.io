@@ -112,7 +112,7 @@ content:
   - title: Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      * Best Presentation Awards 2021
+      Best Presentation Awards 2021
 
 # Footer
 footer_show_references: false
