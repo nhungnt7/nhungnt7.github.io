@@ -99,7 +99,7 @@ content:
       - layout: left
         title: Ha Noi University of Science and Technology
           link: https://hust.edu.vn/
-          link_text: HUST
+          link_text: https://hust.edu.vn/
         caption: August 2017 - August 2021
         sub_title: Computer Science
 #         quote: >
