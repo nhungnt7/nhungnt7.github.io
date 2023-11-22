@@ -43,7 +43,7 @@ Proceedings of the 2023 Conference on Empirical Methods in Natural Language Proc
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021 (Findings)</div><img src='images/UCE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021 (Findings)</div><img src='images/UCE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Uncertainty-Aware Encoder for Aspect Detection](https://aclanthology.org/2021.findings-emnlp.69/)
