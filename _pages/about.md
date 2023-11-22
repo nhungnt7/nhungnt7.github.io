@@ -27,22 +27,6 @@ Downstream Tasks, Information Extraction problems, corpus/pretraining publicatio
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021 (Findings)</div><img src='images/UCE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Uncertainty-Aware Encoder for Aspect Detection](https://aclanthology.org/2021.findings-emnlp.69/)
-
-**Thi-Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song, Tuan-Dung Cao.
-
-Findings of the Association for Computational Linguistics: EMNLP 2021.
-
-<a href="https://aclanthology.org/2021.findings-emnlp.69/"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/nhungnt7/UCE"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/ASeM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,6 +41,23 @@ Proceedings of the 2023 Conference on Empirical Methods in Natural Language Proc
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021 (Findings)</div><img src='images/UCE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Uncertainty-Aware Encoder for Aspect Detection](https://aclanthology.org/2021.findings-emnlp.69/)
+
+**Thi-Nhung Nguyen**, Kiem-Hieu Nguyen, Young-In Song, Tuan-Dung Cao.
+
+Findings of the Association for Computational Linguistics: EMNLP 2021.
+
+<a href="https://aclanthology.org/2021.findings-emnlp.69/"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/nhungnt7/UCE"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *Aug. 2021*: Best Thesis Presentation Award - Department of Computer Science, HUST
