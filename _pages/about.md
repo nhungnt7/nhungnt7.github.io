@@ -21,8 +21,7 @@ redirect_from:
 
 I am a Research Resident under the supervision of [Asst Prof. Thien Huu Nguyen](https://ix.cs.uoregon.edu/~thien/) at [VinAI Research](https://www.vinai.io), Vietnam. Prior to this, I completed my Bachelor’s degree in Computer Science at Hanoi University of Science and Technology, under the supervision of [Dr. Kiem-Hieu Nguyen](https://users.soict.hust.edu.vn/hieunk/). 
 
-My research pursuits center on the advancement of deep learning algorithms tailored and resources for addressing Weakly Supervised
-Downstream Tasks, Information Extraction problems, corpus/pretraining publications.
+My research pursuits center on supporting languages and domains with limited resources, especially, the advancement of deep learning algorithms for addressing Weakly Supervised Downstream Tasks, Information Extraction problems, and publishing datasets and pretraining.
 
 
 # 📝 Publications
