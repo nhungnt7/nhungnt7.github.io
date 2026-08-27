@@ -123,6 +123,20 @@ h2 {
   font-style: italic;
 }
 
+.education-entry {
+  margin-bottom: 22px;
+}
+
+.education-entry p {
+  margin-bottom: 4px;
+}
+
+.news-year {
+  margin: 22px 0 6px;
+  font-size: 1.08rem;
+  line-height: 1.3;
+}
+
 .news-list,
 .compact-list {
   margin: 0;
