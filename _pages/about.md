@@ -19,7 +19,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 <div class="education-entry">
   <p><strong>Doctor of Philosophy in Data Science &amp; Artificial Intelligence</strong><br>
   <a href="https://www.monash.edu/">Monash University</a> · Melbourne, Australia · Jun. 2025–Present</p>
-  <p>Research: safe and autonomous multi-agent systems, planning and reasoning, and LLM alignment.</p>
+  <p>Research: safe and autonomous Society of Intelligent Agents.</p>
   <p>Supervisors: <a href="https://dinhphung.ml/">Prof. Dinh Phung</a>, <a href="https://trangvu.github.io/">Prof. Thuy-Trang Vu</a>, and <a href="https://rmanluo.github.io/">Dr. Linhao Luo</a>.</p>
 </div>
 
@@ -34,6 +34,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 
 <h3 class="news-year">2026</h3>
 <ul class="news-list">
+  <li><time>July</time> — Passed my PhD confirmation milestone with the research proposal <em>Toward Native Social Ability in Society of Intelligent Agents</em>.</li>
   <li><a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026.</li>
 </ul>
 
@@ -44,6 +45,9 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   <li>Our Vietnamese LLM reached #1 on the <a href="https://vmlu.ai/leaderboard">VMLU leaderboard</a> in March.</li>
 </ul>
 
+<details class="collapsible">
+  <summary><span class="when-closed">Show earlier news</span><span class="when-open">Hide earlier news</span></summary>
+  <div class="collapsible__content">
 <h3 class="news-year">2024</h3>
 <ul class="news-list">
   <li><a href="https://aclanthology.org/2024.lrec-main.217/">BKEE</a> was accepted to LREC-COLING 2024.</li>
@@ -60,6 +64,8 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   <li><a href="https://aclanthology.org/2021.findings-emnlp.69/">An Uncertainty-Aware Encoder for Aspect Detection</a> was accepted to Findings of EMNLP 2021.</li>
   <li>Received the Best Thesis Presentation Award at HUST.</li>
 </ul>
+  </div>
+</details>
 
 ## Research
 
@@ -97,6 +103,9 @@ My research aims to advance agentic systems and frontier models for planning and
   <p class="publication__links"><a href="https://aclanthology.org/2025.conll-1.6/">Paper</a></p>
 </div>
 
+<details class="collapsible">
+  <summary><span class="when-closed">Show more publications</span><span class="when-open">Show fewer publications</span></summary>
+  <div class="collapsible__content">
 <div class="publication">
   <p class="publication__title">BKEE: Pioneering Event Extraction in the Vietnamese Language</p>
   <p class="publication__authors"><strong>Thi-Nhung Nguyen</strong>, Bang Tien Tran, Trong-Nghia Luu, Thien Huu Nguyen, Kiem-Hieu Nguyen</p>
@@ -124,6 +133,8 @@ My research aims to advance agentic systems and frontier models for planning and
   <p class="publication__venue">Findings of EMNLP 2021</p>
   <p class="publication__links"><a href="https://aclanthology.org/2021.findings-emnlp.69/">Paper</a> / <a href="https://github.com/nhungnt7/UCE">Code</a></p>
 </div>
+  </div>
+</details>
 
 ## Experience
 
