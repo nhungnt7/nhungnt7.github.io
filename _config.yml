@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Thi-Nhung Nguyen"
-description              : "PhD Researcher in Agentic AI and Foundation Models at Monash University"
+description              : "Second-year PhD Student in Agentic AI and Foundation Models at Monash University"
 url                      : "https://nhungnt7.github.io"
 baseurl                  : ""
 repository               : "nhungnt7/nhungnt7.github.io"
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Thi-Nhung Nguyen"
   avatar           : "images/avatar.png"
-  bio              : "PhD Researcher · Agentic AI & Foundation Models"
+  bio              : "Second-year PhD Student · Agentic AI & Foundation Models"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           :

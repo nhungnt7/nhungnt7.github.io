@@ -2,15 +2,15 @@
 layout: simple
 permalink: /
 title: "Thi-Nhung Nguyen"
-excerpt: "PhD Researcher in Agentic AI and Foundation Models at Monash University."
+excerpt: "Second-year PhD Student in Agentic AI and Foundation Models at Monash University."
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD researcher in Data Science & AI at [Monash University](https://www.monash.edu/) in Melbourne, Australia. I am supervised by [Prof. Dinh Phung](https://dinhphung.ml/), [Prof. Thuy-Trang Vu](https://trangvu.github.io/), and [Dr. Linhao Luo](https://rmanluo.github.io/).
+I am a second-year PhD student in Data Science & AI at [Monash University](https://www.monash.edu/) in Melbourne, Australia. I am supervised by [Prof. Dinh Phung](https://dinhphung.ml/), [Prof. Thuy-Trang Vu](https://trangvu.github.io/), and [Dr. Linhao Luo](https://rmanluo.github.io/).
 
-<p class="research-focus"><em>I study safe, autonomous, and robust agentic systems.</em> My work spans multi-agent coordination, LLM alignment, long-horizon planning and reasoning, self-improvement, retrieval-augmented generation, and model evaluation. My research has been published at EMNLP, COLM, CoNLL, NAACL, and LREC-COLING.</p>
+<p class="research-focus"><em>I study safety, autonomy, and robustness in a Society of Intelligent Agents.</em> My research aims to advance agentic systems and frontier models and enable large-scale coordination through agentic collectives and economies. This includes intelligent orchestration and communication, self-improvement, and agentic safety and autonomy. My broader work spans multi-agent coordination, LLM alignment, long-horizon planning and reasoning, retrieval-augmented generation, and model evaluation. My research has been published at EMNLP, COLM, CoNLL, NAACL, and LREC-COLING.</p>
 
 Before starting my PhD, I led LLM and RAG products from experimentation to deployment at [MISA](https://www.misa.vn/) and was an AI Research Resident at VinAI Research—whose former generative AI division is now part of [Qualcomm](https://www.qualcomm.com/news/releases/2025/04/qualcomm-expands-generative-ai-capabilities-with-acquisition-of-)—where I worked on weakly supervised learning, information extraction, and [PhoGPT](https://github.com/VinAIResearch/PhoGPT).
 
@@ -35,7 +35,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 <h3 class="news-year">2026</h3>
 <ul class="news-list">
   <li><time>July</time> — Passed my PhD confirmation milestone with the research proposal <em>Toward Native Social Ability in Society of Intelligent Agents</em>.</li>
-  <li><a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026.</li>
+  <li><time>Aug.</time> — <a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026.</li>
 </ul>
 
 <h3 class="news-year">2025</h3>
@@ -66,10 +66,6 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 </ul>
   </div>
 </details>
-
-## Research
-
-My research aims to advance agentic systems and frontier models for planning and reasoning, and to enable large-scale coordination through agentic collectives and economies. This includes intelligent orchestration and communication, self-improvement, and agentic safety and autonomy.
 
 ## Selected Publications
 
@@ -139,7 +135,7 @@ My research aims to advance agentic systems and frontier models for planning and
 ## Experience
 
 <ul class="compact-list">
-  <li><time>2025–Present</time> — PhD Researcher &amp; Research Assistant, <a href="https://www.monash.edu/">Monash University</a></li>
+  <li><time>2025–Present</time> — Second-year PhD Student &amp; Research Assistant, <a href="https://www.monash.edu/">Monash University</a></li>
   <li><time>2024–2025</time> — Senior AI Engineer &amp; LLM Team Lead, <a href="https://www.misa.vn/">MISA</a></li>
   <li><time>2022–2024</time> — AI Research Resident, VinAI Research</li>
   <li><time>2019–2022</time> — Research Student, Data Science Laboratory, HUST</li>
