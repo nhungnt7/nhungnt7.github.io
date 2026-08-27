@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Thi-Nhung Nguyen"
 description              : "PhD Researcher in Agentic AI and Foundation Models at Monash University"
+url                      : "https://nhungnt7.github.io"
+baseurl                  : ""
 repository               : "nhungnt7/nhungnt7.github.io"
 google_scholar_stats_use_cdn : false
 

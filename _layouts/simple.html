@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thi-Nhung Nguyen</title>
+    <meta name="description" content="PhD Researcher in Agentic AI and Foundation Models at Monash University">
+    <meta property="og:title" content="Thi-Nhung Nguyen">
+    <meta property="og:description" content="PhD Researcher in Agentic AI and Foundation Models at Monash University">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/simple.css' | relative_url }}">
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="profile">
+        <div class="profile__content">
+          <h1>Thi-Nhung Nguyen</h1>
+          <p class="profile__email"><a href="mailto:nhung.thinguyen@monash.edu">nhung.thinguyen@monash.edu</a></p>
+          <p class="profile__role">
+            PhD Researcher, <a href="https://www.monash.edu/">Monash University</a><br>
+            Agentic AI &amp; Foundation Models
+          </p>
+          <nav class="profile__links" aria-label="Profile links">
+            <a href="{{ '/resume/NhungNguyen_Resume.pdf' | relative_url }}">CV</a>
+            <span aria-hidden="true">/</span>
+            <a href="https://scholar.google.com/citations?user=LvHj1fAAAAAJ&amp;hl=en">Google Scholar</a>
+            <span aria-hidden="true">/</span>
+            <a href="https://github.com/nhungnt7">GitHub</a>
+            <span aria-hidden="true">/</span>
+            <a href="https://www.linkedin.com/in/nhung-nguyen-3b98bb228/">LinkedIn</a>
+          </nav>
+        </div>
+        <img class="profile__photo" src="{{ '/images/avatar.png' | relative_url }}" alt="Thi-Nhung Nguyen">
+      </header>
+
+      <article>
+        {{ content }}
+      </article>
+
+      <footer>
+        <p>© Thi-Nhung Nguyen</p>
+      </footer>
+    </main>
+  </body>
+</html>
