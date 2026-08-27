@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Thi-Nhung Nguyen"
-description              : "Research Resident at VinAI Research, Vietnam"
+description              : "PhD Researcher in Agentic AI and Foundation Models at Monash University"
 repository               : "nhungnt7/nhungnt7.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Thi-Nhung Nguyen"
   avatar           : "images/avatar.png"
-  bio              :
-  location         : "Hanoi, Vietnam"
+  bio              : "PhD Researcher · Agentic AI & Foundation Models"
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LvHj1fAAAAAJ&hl=en"
-  email            : "nguyennhung0799@gmail.com"
+  email            : "nhung.thinguyen@monash.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
