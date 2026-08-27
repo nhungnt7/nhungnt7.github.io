@@ -19,7 +19,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 <div class="education-entry">
   <p><strong>Doctor of Philosophy in Data Science &amp; Artificial Intelligence</strong><br>
   <a href="https://www.monash.edu/">Monash University</a> · Melbourne, Australia · Jun. 2025–Present</p>
-  <p>Research: safe and autonomous Society of Intelligent Agents.</p>
+  <p>Research: Safe and Autonomous Society of Intelligent Agents.</p>
   <p>Supervisors: <a href="https://dinhphung.ml/">Prof. Dinh Phung</a>, <a href="https://trangvu.github.io/">Prof. Thuy-Trang Vu</a>, and <a href="https://rmanluo.github.io/">Dr. Linhao Luo</a>.</p>
 </div>
 
@@ -96,7 +96,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   <p class="publication__title">Planning for Success: Exploring LLM Long-term Planning Capabilities in Table Understanding</p>
   <p class="publication__authors"><strong>Thi-Nhung Nguyen</strong>, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen</p>
   <p class="publication__venue">CoNLL 2025</p>
-  <p class="publication__links"><a href="https://aclanthology.org/2025.conll-1.6/">Paper</a></p>
+  <p class="publication__links"><a href="https://aclanthology.org/2025.conll-1.6/">Paper</a> / <a href="https://github.com/nhungnt7/PLANTA">Code</a></p>
 </div>
 
 <details class="collapsible">
@@ -106,7 +106,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   <p class="publication__title">BKEE: Pioneering Event Extraction in the Vietnamese Language</p>
   <p class="publication__authors"><strong>Thi-Nhung Nguyen</strong>, Bang Tien Tran, Trong-Nghia Luu, Thien Huu Nguyen, Kiem-Hieu Nguyen</p>
   <p class="publication__venue">LREC-COLING 2024</p>
-  <p class="publication__links"><a href="https://aclanthology.org/2024.lrec-main.217/">Paper</a></p>
+  <p class="publication__links"><a href="https://aclanthology.org/2024.lrec-main.217/">Paper</a> / <a href="https://github.com/nhungnt7/BKEE">Code</a></p>
 </div>
 
 <div class="publication">
@@ -120,7 +120,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   <p class="publication__title">A Self-Enhancement Multitask Framework for Unsupervised Aspect Category Detection</p>
   <p class="publication__authors"><strong>Thi-Nhung Nguyen</strong>, Hoang Ngo, Kiem-Hieu Nguyen, Tuan-Dung Cao</p>
   <p class="publication__venue">EMNLP 2023</p>
-  <p class="publication__links"><a href="https://arxiv.org/abs/2311.09708">Paper</a> / <a href="https://github.com/nhungnt7/ASEM">Code</a></p>
+  <p class="publication__links"><a href="https://arxiv.org/abs/2311.09708">Paper</a></p>
 </div>
 
 <div class="publication">
