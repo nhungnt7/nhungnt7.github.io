@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Data Science & AI at [Monash University](https://www.monash.edu/) in Melbourne, Australia. I am supervised by [Prof. Dinh Phung](https://dinhphung.ml/), [Prof. Thuy-Trang Vu](https://trangvu.github.io/), and [Dr. Linhao Luo](https://rmanluo.github.io/).
+I am a second-year PhD student in Data Science & AI at [Monash University](https://www.monash.edu/) in Melbourne, Australia. I am supervised by [Prof. Dinh Phung](https://dinhphung.ml/), [Dr. Thuy-Trang Vu](https://trangvu.github.io/), and [Dr. Linhao Luo](https://rmanluo.github.io/).
 
 <p class="research-focus"><em>I study safety, autonomy, and robustness in a Society of Intelligent Agents.</em> My research aims to advance agentic systems and frontier models and enable large-scale coordination through agentic collectives and economies. This includes intelligent orchestration and communication, self-improvement, and agentic safety and autonomy. My broader work spans multi-agent coordination, LLM alignment, long-horizon planning and reasoning, retrieval-augmented generation, and model evaluation. My research has been published at EMNLP, COLM, CoNLL, NAACL, and LREC-COLING.</p>
 
@@ -20,7 +20,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   <p><strong>Doctor of Philosophy in Data Science &amp; Artificial Intelligence</strong><br>
   <a href="https://www.monash.edu/">Monash University</a> · Melbourne, Australia · Jun. 2025–Present</p>
   <p>Research: Safe and Autonomous Society of Intelligent Agents.</p>
-  <p>Supervisors: <a href="https://dinhphung.ml/">Prof. Dinh Phung</a>, <a href="https://trangvu.github.io/">Prof. Thuy-Trang Vu</a>, and <a href="https://rmanluo.github.io/">Dr. Linhao Luo</a>.</p>
+  <p>Supervisors: <a href="https://dinhphung.ml/">Prof. Dinh Phung</a>, <a href="https://trangvu.github.io/">Dr. Thuy-Trang Vu</a>, and <a href="https://rmanluo.github.io/">Dr. Linhao Luo</a>.</p>
 </div>
 
 <div class="education-entry">
