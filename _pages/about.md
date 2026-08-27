@@ -33,22 +33,30 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 ## News
 
 <ul class="news-list">
-  <li><time datetime="2026-08">Aug. 2026</time><span><a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026.</span></li>
-  <li><time datetime="2026-07">Jul. 2026</time><span>Passed my PhD confirmation milestone with the research proposal <em>Toward Native Social Ability in Society of Intelligent Agents</em>.</span></li>
-  <li><time datetime="2025">2025</time><span><a href="https://arxiv.org/abs/2508.17028">Improving Table Understanding with LLMs and Entity-Oriented Search</a> was accepted to COLM 2025.</span></li>
-  <li><time datetime="2025">2025</time><span><a href="https://aclanthology.org/2025.conll-1.6/">Planning for Success</a> was accepted to CoNLL 2025.</span></li>
-  <li><time datetime="2025-03">Mar. 2025</time><span>Our Vietnamese LLM reached #1 on the <a href="https://vmlu.ai/leaderboard">VMLU leaderboard</a>.</span></li>
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026. <time datetime="2026-08">(Aug. 2026)</time></li>
+  <li><span class="news-tag news-tag--milestone">[Milestone]:</span> Passed my PhD confirmation milestone with the research proposal <em>Toward Native Social Ability in Society of Intelligent Agents</em>. <time datetime="2026-07">(Jul. 2026)</time></li>
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2508.17028">Improving Table Understanding with LLMs and Entity-Oriented Search</a> was accepted to COLM 2025. <time datetime="2025">(2025)</time></li>
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://aclanthology.org/2025.conll-1.6/">Planning for Success</a> was accepted to CoNLL 2025. <time datetime="2025">(2025)</time></li>
+  <li><span class="news-tag news-tag--achievement">[Achievement]:</span> Our Vietnamese LLM reached #1 on the <a href="https://vmlu.ai/leaderboard">VMLU leaderboard</a>. <time datetime="2025-03">(Mar. 2025)</time></li>
 </ul>
 
-<details class="collapsible">
-  <summary><span class="when-closed">Show earlier news</span><span class="when-open">Hide earlier news</span></summary>
+<details class="collapsible news-more">
+  <summary><span class="when-closed">More News (2024)</span><span class="when-open">Hide News (2024)</span></summary>
   <div class="collapsible__content">
 <ul class="news-list">
-  <li><time datetime="2024">2024</time><span><a href="https://aclanthology.org/2024.lrec-main.217/">BKEE</a> was accepted to LREC-COLING 2024.</span></li>
-  <li><time datetime="2024">2024</time><span><a href="https://aclanthology.org/2024.naacl-long.200/">SharpSeq</a>, a co-authored paper, was accepted to NAACL 2024 as a long paper.</span></li>
-  <li><time datetime="2023">2023</time><span><a href="https://arxiv.org/abs/2311.09708">A Self-Enhancement Multitask Framework for Unsupervised Aspect Category Detection</a> was accepted to EMNLP 2023.</span></li>
-  <li><time datetime="2021">2021</time><span><a href="https://aclanthology.org/2021.findings-emnlp.69/">An Uncertainty-Aware Encoder for Aspect Detection</a> was accepted to Findings of EMNLP 2021.</span></li>
-  <li><time datetime="2021">2021</time><span>Received the Best Thesis Presentation Award at HUST.</span></li>
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://aclanthology.org/2024.lrec-main.217/">BKEE</a> was accepted to LREC-COLING 2024. <time datetime="2024">(2024)</time></li>
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://aclanthology.org/2024.naacl-long.200/">SharpSeq</a>, a co-authored long paper, was accepted to NAACL 2024. <time datetime="2024">(2024)</time></li>
+</ul>
+  </div>
+</details>
+
+<details class="collapsible news-more">
+  <summary><span class="when-closed">More News (2023 and before)</span><span class="when-open">Hide News (2023 and before)</span></summary>
+  <div class="collapsible__content">
+<ul class="news-list">
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2311.09708">A Self-Enhancement Multitask Framework for Unsupervised Aspect Category Detection</a> was accepted to EMNLP 2023. <time datetime="2023">(2023)</time></li>
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://aclanthology.org/2021.findings-emnlp.69/">An Uncertainty-Aware Encoder for Aspect Detection</a> was accepted to Findings of EMNLP 2021. <time datetime="2021">(2021)</time></li>
+  <li><span class="news-tag news-tag--award">[Award]:</span> Received the Best Thesis Presentation Award at HUST. <time datetime="2021">(2021)</time></li>
 </ul>
   </div>
 </details>

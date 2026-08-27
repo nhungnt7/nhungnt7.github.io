@@ -178,26 +178,26 @@ h2 {
   display: inline;
 }
 
-.news-list,
 .compact-list {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.news-list li,
 .compact-list li {
   margin-bottom: 9px;
 }
 
-.news-list li {
-  display: grid;
-  grid-template-columns: 7rem minmax(0, 1fr);
-  gap: 14px;
-  align-items: start;
+.news-list {
+  margin: 0;
+  padding-left: 1.4rem;
 }
 
-.news-list time,
+.news-list li {
+  margin-bottom: 7px;
+  padding-left: 0.12rem;
+}
+
 .compact-list time {
   font-weight: 700;
 }
@@ -205,6 +205,57 @@ h2 {
 .news-list time {
   color: var(--muted);
   white-space: nowrap;
+}
+
+.news-tag--paper {
+  color: #d51f1f;
+}
+
+.news-tag--milestone {
+  color: #2457c5;
+}
+
+.news-tag--achievement,
+.news-tag--award {
+  color: #cf7900;
+}
+
+.news-more {
+  margin-top: 6px;
+}
+
+.news-more + .news-more {
+  margin-top: 2px;
+}
+
+.news-more summary {
+  display: block;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.news-more summary:hover {
+  border-color: transparent;
+  color: var(--link);
+}
+
+.news-more summary::before {
+  display: inline-block;
+  width: 1.15rem;
+  color: var(--muted);
+  content: "▶";
+  font-size: 0.72rem;
+}
+
+.news-more[open] summary::before {
+  content: "▼";
+}
+
+.news-more .collapsible__content {
+  margin: 8px 0 12px;
 }
 
 .publication {
@@ -275,11 +326,6 @@ footer {
     margin-top: 34px;
   }
 
-  .news-list li {
-    grid-template-columns: 1fr;
-    gap: 0;
-    margin-bottom: 14px;
-  }
 }
 
 @media print {
