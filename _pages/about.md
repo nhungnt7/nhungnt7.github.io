@@ -12,7 +12,7 @@ I am a second-year PhD student in Data Science & AI at [Monash University](https
 
 <p class="research-focus"><em>I study safety, autonomy, and robustness in a Society of Intelligent Agents.</em> My research aims to advance agentic systems and frontier models and enable large-scale coordination through agentic collectives and economies. This includes intelligent orchestration and communication, self-improvement, and agentic safety and autonomy. My broader work spans multi-agent coordination, LLM alignment, long-horizon planning and reasoning, retrieval-augmented generation, and model evaluation. My research has been published at EMNLP, COLM, CoNLL, NAACL, and LREC-COLING.</p>
 
-Before starting my PhD, I led LLM and RAG products from experimentation to deployment at [MISA](https://www.misa.vn/) and was an AI Research Resident at VinAI Research (now part of [Qualcomm](https://www.qualcomm.com/news/releases/2025/04/qualcomm-expands-generative-ai-capabilities-with-acquisition-of-)), where I worked on weakly supervised learning, information extraction, and [PhoGPT](https://github.com/VinAIResearch/PhoGPT).
+Before starting my PhD, I led LLM and RAG products from experimentation to deployment at [MISA](https://www.misa.vn/) and was an AI Research Resident at VinAI Research (now part of [Qualcomm](https://www.qualcomm.com/news/releases/2025/04/qualcomm-expands-generative-ai-capabilities-with-acquisition-of-)), where I worked on weakly supervised learning and information extraction.
 
 ## Education
 
