@@ -33,6 +33,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 ## News
 
 <ul class="news-list">
+  <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2510.10943">The Social Cost of Intelligence: Emergence, Propagation, and Amplification of Stereotypical Bias in Multi-Agent Systems</a> was accepted to AACL-IJCNLP 2026 (Findings). <time datetime="2026-09">(Sep. 2026)</time></li>
   <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026. <time datetime="2026-08">(Aug. 2026)</time></li>
   <li><span class="news-tag news-tag--milestone">[Milestone]:</span> Passed my PhD confirmation milestone with the research proposal <em>Toward Native Social Ability in Society of Intelligent Agents</em>. <time datetime="2026-07">(Jul. 2026)</time></li>
   <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2508.17028">Improving Table Understanding with LLMs and Entity-Oriented Search</a> was accepted to COLM 2025. <time datetime="2025">(2025)</time></li>
@@ -75,7 +76,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 <div class="publication">
   <p class="publication__title">The Social Cost of Intelligence: Emergence, Propagation, and Amplification of Stereotypical Bias in Multi-Agent Systems</p>
   <p class="publication__authors"><strong>Thi-Nhung Nguyen</strong>, Linhao Luo, Amardeep Kaur, Rollin Omari, Tamas Abraham, Junae Kim, Thuy-Trang Vu, Dinh Phung</p>
-  <p class="publication__venue">Preprint, 2026</p>
+  <p class="publication__venue">AACL-IJCNLP 2026 (Findings)</p>
   <p class="publication__links"><a href="https://arxiv.org/abs/2510.10943">Paper</a></p>
 </div>
 
