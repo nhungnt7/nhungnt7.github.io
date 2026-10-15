@@ -1,0 +1,373 @@
+.research-note {
+  --note-accent: var(--accent);
+  --note-surface: #fcf8f1;
+  --note-border: #eadbc7;
+  --note-icon-bg: #f2e3cf;
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr);
+  gap: 14px;
+  margin: 0;
+  padding: 20px;
+  border: 1px solid var(--note-border);
+  border-left: 4px solid var(--note-accent);
+  border-radius: 4px;
+  background: var(--note-surface);
+}
+
+.research-note-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 18px 0 12px;
+}
+
+.research-note--agents,
+.notes-index__item--agents {
+  --note-accent: #a35d13;
+  --note-surface: #fcf7ef;
+  --note-border: #ead8bf;
+  --note-icon-bg: #f2e2cb;
+}
+
+.research-note--coordination,
+.notes-index__item--coordination {
+  --note-accent: #2f6b58;
+  --note-surface: #f1f7f4;
+  --note-border: #cfe1da;
+  --note-icon-bg: #dcebe5;
+}
+
+.research-note--alignment,
+.notes-index__item--alignment {
+  --note-accent: #193f7d;
+  --note-surface: #f3f6fb;
+  --note-border: #d5dfed;
+  --note-icon-bg: #dfe8f5;
+}
+
+.research-note__icon,
+.notes-index__icon {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--note-icon-bg);
+  color: var(--note-accent);
+}
+
+.research-note__icon svg,
+.notes-index__icon svg {
+  width: 23px;
+  height: 23px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+}
+
+.research-note p {
+  margin-bottom: 7px;
+}
+
+.research-note__meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.research-note__meta span {
+  color: var(--note-accent);
+  font-weight: 700;
+}
+
+.research-note__title {
+  margin-top: 3px;
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+
+.research-note__links {
+  font-size: 0.96rem;
+}
+
+.note-paper {
+  margin: 2px 0 9px;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.note-paper span {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.note-paper a {
+  font-weight: 600;
+}
+
+.note-paper--header {
+  max-width: 720px;
+  margin-bottom: 12px;
+  font-size: 0.88rem;
+}
+
+.paper-coming-soon {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.research-notes-all {
+  margin-top: 14px;
+  font-size: 0.96rem;
+  font-weight: 700;
+}
+
+.notes-intro {
+  max-width: 720px;
+  color: var(--muted);
+}
+
+.notes-year {
+  margin-top: 34px;
+}
+
+.notes-year h2 {
+  margin-top: 0;
+}
+
+.notes-index {
+  display: grid;
+  gap: 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.notes-index li {
+  --note-accent: var(--accent);
+  --note-surface: #fcf8f1;
+  --note-border: #eadbc7;
+  --note-icon-bg: #f2e3cf;
+  display: grid;
+  grid-template-columns: 80px minmax(0, 1fr);
+  gap: 18px;
+  padding: 20px;
+  border: 1px solid var(--note-border);
+  border-left: 4px solid var(--note-accent);
+  border-radius: 4px;
+  background: var(--note-surface);
+}
+
+.notes-index__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.notes-index time {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.notes-index h3 {
+  margin: 0 0 5px;
+  font-size: 1.08rem;
+}
+
+.notes-index p {
+  margin-bottom: 6px;
+}
+
+.note-topic {
+  display: inline-block;
+  width: fit-content;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--note-icon-bg);
+  color: var(--note-accent);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.note-header {
+  margin-bottom: 28px;
+}
+
+.note-header h1 {
+  margin: 10px 0 14px;
+  font-size: clamp(2rem, 6vw, 3rem);
+  line-height: 1.18;
+  letter-spacing: -0.02em;
+}
+
+.note-kicker,
+.note-details,
+.note-back {
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.note-kicker {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.note-summary {
+  margin: 26px 0 34px;
+  padding: 16px 18px;
+  border-left: 3px solid var(--accent);
+  background: #faf7f2;
+}
+
+.note-summary p:last-child {
+  margin-bottom: 0;
+}
+
+.note-content {
+  max-width: 760px;
+}
+
+.note-content h2 {
+  margin-top: 36px;
+}
+
+.note-concepts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 20px 0 26px;
+}
+
+.note-concepts--two {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.note-concepts div {
+  padding: 14px;
+  border: 1px solid var(--rule);
+}
+
+.note-concepts strong {
+  color: var(--accent);
+}
+
+.note-concepts p {
+  margin: 6px 0 0;
+  font-size: 0.94rem;
+}
+
+.promo-intro {
+  margin: 28px 0 20px;
+  font-size: 1.08rem;
+}
+
+.promo-paper-highlight,
+.promo-point {
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  gap: 13px;
+  align-items: start;
+}
+
+.promo-paper-highlight {
+  margin: 20px 0 24px;
+  padding: 16px 18px;
+  border: 1px solid #cfe1da;
+  border-left: 4px solid #2f6b58;
+  border-radius: 4px;
+  background: #f1f7f4;
+}
+
+.promo-flow {
+  display: grid;
+  gap: 11px;
+  margin: 24px 0;
+}
+
+.promo-point {
+  padding: 14px 16px;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: #fff;
+}
+
+.promo-icon {
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  border-radius: 50%;
+  background: #dcebe5;
+  color: #2f6b58;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.promo-paper-highlight p,
+.promo-point p {
+  margin: 3px 0 0;
+}
+
+.promo-results {
+  margin: 26px 0;
+  padding: 18px 20px;
+  border: 1px solid #cfe1da;
+  border-radius: 4px;
+  background: #f1f7f4;
+}
+
+.promo-results strong {
+  color: #2f6b58;
+}
+
+.note-resources {
+  margin-top: 34px;
+  padding-top: 16px;
+  border-top: 1px solid var(--rule);
+}
+
+.note-principle {
+  margin: 28px 0 34px;
+  padding: 8px 0 8px 20px;
+  border-left: 3px solid var(--accent);
+  color: var(--text);
+  font-size: 1.18rem;
+  font-style: italic;
+}
+
+@media (max-width: 680px) {
+  .research-note-list {
+    grid-template-columns: 1fr;
+  }
+
+  .research-note {
+    grid-template-columns: 38px minmax(0, 1fr);
+    gap: 12px;
+    padding: 15px 16px;
+  }
+
+  .research-note__icon,
+  .notes-index__icon {
+    width: 38px;
+    height: 38px;
+  }
+
+  .note-concepts {
+    grid-template-columns: 1fr;
+  }
+
+  .notes-index li {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    padding: 16px;
+  }
+
+  .notes-index__meta {
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+  }
+}

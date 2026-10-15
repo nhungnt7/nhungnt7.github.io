@@ -1,0 +1,53 @@
+---
+layout: simple
+permalink: /rcm/
+title: "How do we scale AI agents without putting one agent in charge of everything?"
+excerpt: "How local responsibility can enable scalable coordination in decentralized multi-agent systems."
+note_page: true
+---
+
+<p class="note-back"><a href="{{ '/notes/' | relative_url }}">← Research Notes</a></p>
+<header class="note-header">
+  <p class="note-kicker">Paper explainer</p>
+  <h1>How do we scale AI agents without putting one agent in charge of everything?</h1>
+  <p class="note-paper note-paper--header"><span>Paper:</span> A Responsibility-Centered Coordination Mechanism for Decentralized Multi-Agent Systems</p>
+  <p class="note-details">Oct. 2026 · 2 min read · Preprint</p>
+</header>
+
+<div class="promo-intro">
+  <p>Most multi-agent systems rely on a central orchestrator to assign tasks, track progress, and handle failures. But as the team grows, that orchestrator can become a bottleneck.</p>
+</div>
+
+<div class="promo-paper-highlight">
+  <span class="promo-icon" aria-hidden="true">✦</span>
+  <p>We've been exploring a different approach in our new paper: <strong>A Responsibility-Centered Coordination Mechanism (RCM)</strong>.</p>
+</div>
+
+<div class="promo-flow">
+  <div class="promo-point">
+    <span class="promo-icon" aria-hidden="true">✓</span>
+    <p>The key idea is simple. When an agent delegates a task, it doesn't give up responsibility for it. It still needs to monitor the work, verify the result, and step in when something goes wrong.</p>
+  </div>
+  <div class="promo-point">
+    <span class="promo-icon" aria-hidden="true">↔</span>
+    <p>Every agent makes decisions based on its own responsibilities and orchestrates its delegated work locally. Put many of these local orchestrators together, and global coordination emerges without anyone managing the whole system.</p>
+  </div>
+  <div class="promo-point">
+    <span class="promo-icon" aria-hidden="true">◎</span>
+    <p>The surprising part is that agents figure out how to organize themselves. Some form chains, others become specialist hubs, and some build hybrid networks. None of these structures need to be designed in advance. They emerge as agents work toward a shared goal.</p>
+  </div>
+  <div class="promo-point">
+    <span class="promo-icon" aria-hidden="true">↻</span>
+    <p>And when things change or fail, agents can adapt and recover locally without waiting for a central controller.</p>
+  </div>
+</div>
+
+<p class="promo-results">We tested RCM across reasoning, coding, and real executable agent tasks. It outperforms strong centralized and decentralized baselines by up to <strong>18.7 points in task performance</strong> and <strong>10.2 points in responsibility</strong>, while also improving failure attribution and harmful-action detection, without task-specific training.</p>
+
+<blockquote class="note-principle">Global coordination can emerge from local responsibility.</blockquote>
+
+<div class="note-resources">
+  <p><strong>A Responsibility-Centered Coordination Mechanism for Decentralized Multi-Agent Systems</strong></p>
+  <p>Thi-Nhung Nguyen, Viet-Thanh Pham, Linhao Luo, Thuy-Trang Vu, and Dinh Phung</p>
+  <p>Preprint · <span class="paper-coming-soon">Paper link coming soon</span></p>
+</div>

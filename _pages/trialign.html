@@ -1,0 +1,45 @@
+---
+layout: simple
+permalink: /trialign/
+title: "Same Question, Different Profile: Why Do LLMs Treat Us Unequally?"
+excerpt: "Why personalization must not create different versions of truth for different people."
+note_page: true
+---
+
+<p class="note-back"><a href="{{ '/notes/' | relative_url }}">← Research Notes</a></p>
+<header class="note-header">
+  <p class="note-kicker">Paper explainer</p>
+  <h1>Same Question, Different Profile: Why Do LLMs Treat Us Unequally?</h1>
+  <p class="note-paper note-paper--header"><span>Paper:</span> <a href="https://arxiv.org/abs/2606.01755">TriAlign: Towards Universal Truth Consistency in Personalized LLM Alignment</a></p>
+  <p class="note-details">Aug. 2026 · 6 min read · EMNLP 2026</p>
+</header>
+
+<aside class="note-summary">
+  <p><strong>TL;DR.</strong> Two people can ask the same factual question and receive different answers because a model has personalized itself to their profiles. When those differences concern facts—not tone, format, or level of detail—personalization becomes a quiet fairness problem. People may receive unequal access to truth without ever knowing that someone else was told something different. TriAlign starts from a simple principle: a model may personalize how it communicates, but it must not personalize what is true.</p>
+</aside>
+
+<h2>The hidden inconsistency</h2>
+<p>Imagine two people asking the same question about the same underlying reality. Their assistants know different things about them—their preferences, background, beliefs, or past conversations—and produce two different factual answers.</p>
+<p>Each answer may sound confident and individually plausible. Because the interaction is private, neither person knows that the other received a different version of the truth. The inconsistency is therefore difficult to observe, compare, or challenge.</p>
+<p>From each user's perspective, the system may appear completely coherent. The failure only becomes visible when answers are compared across users—something ordinary single-user evaluations may never reveal.</p>
+
+<h2>How TriAlign aligns personalization with shared truth</h2>
+<p>TriAlign formulates this tension as <strong>Truth-Invariant Alignment (TIA)</strong>: personalized models should remain useful for different users without allowing universal truths to vary across social groups.</p>
+<div class="note-concepts note-concepts--two">
+  <div><strong>Balance three objectives</strong><p>TriAlign jointly optimizes universal-truth accuracy, cross-group consistency, and personalization, rather than improving one by sacrificing the others.</p></div>
+  <div><strong>Penalize hidden inconsistency</strong><p>A fairness-aware objective explicitly penalizes cases in which social groups receive conflicting or unequally accurate answers to the same objective task.</p></div>
+</div>
+<p>By optimizing these goals together, TriAlign reduces truth disparities across social groups while improving both objective-task performance and personalization quality.</p>
+
+<h2>From different answers to unequal outcomes</h2>
+<p>Once factual answers diverge, the consequences do not remain inside a conversation. People use information to make decisions, pursue opportunities, and participate in society. Different versions of the truth can therefore create different starting points for action.</p>
+<p>Some users may receive more accurate or complete information, while others unknowingly make choices from a weaker knowledge base. Repeated across many interactions, these small differences can accumulate into unequal outcomes.</p>
+<p>The inequality is especially difficult to detect because every response may still look helpful and personalized in isolation. No matter how sophisticated personalization becomes, it cannot justify giving people contradictory realities.</p>
+<p>How can language models adapt to diverse users while remaining consistent about facts that should be universal? TriAlign frames truth consistency as a core requirement of personalized alignment—not an optional property to check after personalization has already taken place.</p>
+
+<blockquote class="note-principle">A model may personalize how it speaks to us. It should never personalize what is true.</blockquote>
+
+<div class="note-resources">
+  <p><strong>TriAlign: Towards Universal Truth Consistency in Personalized LLM Alignment</strong></p>
+  <p>EMNLP 2026 · <a href="https://arxiv.org/abs/2606.01755">Read the paper</a></p>
+</div>

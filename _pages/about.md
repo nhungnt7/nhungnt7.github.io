@@ -62,6 +62,38 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
   </div>
 </details>
 
+## Research Notes
+
+<p class="section-note">Accessible explanations of the ideas behind my research.</p>
+
+<div class="research-note-list">
+  <div class="research-note research-note--coordination">
+    <span class="research-note__icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24"><circle cx="6" cy="6" r="2"></circle><circle cx="18" cy="6" r="2"></circle><circle cx="6" cy="18" r="2"></circle><circle cx="18" cy="18" r="2"></circle><path d="M8 6h8M6 8v8M18 8v8M8 18h8M7.5 7.5l9 9M16.5 7.5l-9 9"></path></svg>
+    </span>
+    <div class="research-note__body">
+      <p class="research-note__meta"><span>Multi-agent coordination</span> · Oct. 2026 · 2 min read</p>
+      <p class="research-note__title"><a href="{{ '/rcm/' | relative_url }}">How do we scale AI agents without putting one agent in charge of everything?</a></p>
+      <p class="note-paper"><span>Paper:</span> A Responsibility-Centered Coordination Mechanism for Decentralized Multi-Agent Systems</p>
+      <p>Most multi-agent systems rely on a central orchestrator—but as the team grows, it can become a bottleneck.</p>
+    </div>
+  </div>
+
+  <div class="research-note research-note--agents">
+    <span class="research-note__icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24"><circle cx="6" cy="7" r="2.25"></circle><circle cx="18" cy="7" r="2.25"></circle><circle cx="12" cy="17" r="2.25"></circle><path d="M8.3 7h7.4M7.5 8.8l3.2 6.1M16.5 8.8l-3.2 6.1"></path></svg>
+    </span>
+    <div class="research-note__body">
+      <p class="research-note__meta"><span>Multi-agent safety</span> · Sep. 2026 · 6 min read</p>
+      <p class="research-note__title"><a href="{{ '/article/' | relative_url }}">When Intelligent Agents Talk, Can Their Biases Become Stronger?</a></p>
+      <p class="note-paper"><span>Paper:</span> The Social Cost of Intelligence: Emergence, Propagation, and Amplification of Stereotypical Bias in Multi-Agent Systems</p>
+      <p>A short introduction to how stereotypical bias can emerge, spread, and intensify through interactions in multi-agent systems.</p>
+    </div>
+  </div>
+</div>
+
+<p class="research-notes-all"><a href="{{ '/notes/' | relative_url }}">View all research notes →</a></p>
+
 ## Selected Publications
 
 <p class="section-note">For a complete list, see my <a href="https://scholar.google.com/citations?user=LvHj1fAAAAAJ&amp;hl=en">Google Scholar</a> profile.</p>
