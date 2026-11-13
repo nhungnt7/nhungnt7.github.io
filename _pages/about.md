@@ -33,6 +33,7 @@ Before starting my PhD, I led LLM and RAG products from experimentation to deplo
 ## News
 
 <ul class="news-list">
+  <li><span class="news-tag">[Project]:</span> After attending EMNLP 2026, I released <a href="https://github.com/nhungnt7/research-boost">ResearchBoost</a>, a Codex skill for building expertise in a new research field from keywords or papers. <time datetime="2026-11">(Nov. 2026)</time></li>
   <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2510.10943">The Social Cost of Intelligence: Emergence, Propagation, and Amplification of Stereotypical Bias in Multi-Agent Systems</a> was accepted to AACL-IJCNLP 2026 (Findings). <time datetime="2026-09">(Sep. 2026)</time></li>
   <li><span class="news-tag news-tag--paper">[Paper]:</span> <a href="https://arxiv.org/abs/2606.01755">TriAlign</a> was accepted to EMNLP 2026. <time datetime="2026-08">(Aug. 2026)</time></li>
   <li><span class="news-tag news-tag--milestone">[Milestone]:</span> Passed my PhD confirmation milestone with the research proposal <em>Toward Native Social Ability in Society of Intelligent Agents</em>. <time datetime="2026-07">(Jul. 2026)</time></li>
